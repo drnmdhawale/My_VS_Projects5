@@ -1,0 +1,9 @@
+c:\users\shree\documents\visual studio 2013\Projects\learnClass\learnClass\bin\Debug\learnClass.exe.config
+c:\users\shree\documents\visual studio 2013\Projects\learnClass\learnClass\bin\Debug\learnClass.exe
+c:\users\shree\documents\visual studio 2013\Projects\learnClass\learnClass\bin\Debug\learnClass.pdb
+c:\users\shree\documents\visual studio 2013\Projects\learnClass\learnClass\obj\Debug\learnClass.csprojResolveAssemblyReference.cache
+c:\users\shree\documents\visual studio 2013\Projects\learnClass\learnClass\obj\Debug\learnClass.Form1.resources
+c:\users\shree\documents\visual studio 2013\Projects\learnClass\learnClass\obj\Debug\learnClass.Properties.Resources.resources
+c:\users\shree\documents\visual studio 2013\Projects\learnClass\learnClass\obj\Debug\learnClass.csproj.GenerateResource.Cache
+c:\users\shree\documents\visual studio 2013\Projects\learnClass\learnClass\obj\Debug\learnClass.exe
+c:\users\shree\documents\visual studio 2013\Projects\learnClass\learnClass\obj\Debug\learnClass.pdb

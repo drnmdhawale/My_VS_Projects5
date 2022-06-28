@@ -1,0 +1,8 @@
+c:\users\shree\documents\visual studio 2013\Projects\learnGraphics\learnGraphics\bin\Debug\learnGraphics.exe.config
+c:\users\shree\documents\visual studio 2013\Projects\learnGraphics\learnGraphics\bin\Debug\learnGraphics.exe
+c:\users\shree\documents\visual studio 2013\Projects\learnGraphics\learnGraphics\bin\Debug\learnGraphics.pdb
+c:\users\shree\documents\visual studio 2013\Projects\learnGraphics\learnGraphics\obj\Debug\learnGraphics.Form1.resources
+c:\users\shree\documents\visual studio 2013\Projects\learnGraphics\learnGraphics\obj\Debug\learnGraphics.Properties.Resources.resources
+c:\users\shree\documents\visual studio 2013\Projects\learnGraphics\learnGraphics\obj\Debug\learnGraphics.csproj.GenerateResource.Cache
+c:\users\shree\documents\visual studio 2013\Projects\learnGraphics\learnGraphics\obj\Debug\learnGraphics.exe
+c:\users\shree\documents\visual studio 2013\Projects\learnGraphics\learnGraphics\obj\Debug\learnGraphics.pdb
